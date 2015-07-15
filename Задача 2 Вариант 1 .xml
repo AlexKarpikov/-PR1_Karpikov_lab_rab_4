@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Staff xmlns="xsd_staff2.xsd"> 
+<Worker IDWorker="1">
+<Surname>Melnikov</Surname>
+<Name>Igor</Name>
+<MiddleName>Ivanovich</MiddleName>
+<Function>Guard</Function>
+<EmploymentDate>2012-08-11</EmploymentDate>
+<Children id_Children="1">
+<BabyName>Misha</BabyName>
+<Birthday>2013-02-24</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>300</PresentPrice>
+<DeliveryDate>2012-12-31</DeliveryDate>
+</NewYearPresents>
+<NewYearPresents id_Presents="2">
+<PresentPrice>200</PresentPrice>
+<DeliveryDate>2013-01-07</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+<Worker>
+<IDWorker>2</IDWorker>
+<Surname>Zaykov</Surname>
+<Name>Sergey</Name>
+<MiddleName>Kirillovich</MiddleName>
+<Function>Foreman</Function>
+<EmploymentDate>2010-02-24</EmploymentDate>
+<Children id_Children="1">
+<BabyName>Petr</BabyName>
+<Birthday>2013-02-24</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>400</PresentPrice>
+<DeliveryDate>2014-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+<Worker>
+<IDWorker>3</IDWorker>
+<Surname>Buynov</Surname>
+<Name>Andrey</Name>
+<MiddleName>Alekseevich</MiddleName>
+<Function>Driver</Function>
+<EmploymentDate>2011-01-16</EmploymentDate>
+<Children id_Children="1">
+<BabyName>Vanya</BabyName>
+<Birthday>2009-12-09</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>150</PresentPrice>
+<DeliveryDate>2010-12-31</DeliveryDate>
+</NewYearPresents>
+<NewYearPresents id_Presents="2">
+<PresentPrice>300</PresentPrice>
+<DeliveryDate>2010-01-07</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+
+<Worker>
+<IDWorker>4</IDWorker>
+<Surname>Bely</Surname>
+<Name>Dmitry</Name>
+<MiddleName>Dmitreevich</MiddleName>
+<Function>Constructor</Function>
+<EmploymentDate>2012-10-05</EmploymentDate>
+<Children id_Children="1">
+<BabyName>Sergey</BabyName>
+<Birthday>2011-04-19</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>500</PresentPrice>
+<DeliveryDate>2012-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+<Worker>
+<IDWorker>5</IDWorker>
+<Surname>Zavadsky</Surname>
+<Name>Yury</Name>
+<MiddleName>Stepanovich</MiddleName>
+<Function>Painter</Function>
+<EmploymentDate>2013-12-19</EmploymentDate>
+<Children id_Children="1">
+<BabyName>Semen</BabyName>
+<Birthday>2014-08-02</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>800</PresentPrice>
+<DeliveryDate>2015-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Worker>
+</Staff>
